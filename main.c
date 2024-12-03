@@ -1,5 +1,4 @@
 #include <Windows.h>
-#include <stdio.h>
 #include "헤더.h"
 
 int main()
